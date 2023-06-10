@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'ar'
+title = 'فوضى يونيو'
+theme = 'etch'
